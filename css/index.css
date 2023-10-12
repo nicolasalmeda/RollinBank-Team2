@@ -52,3 +52,26 @@ footer div img {
 .footer-img{
   margin-top: 10px;
 }
+
+.box{
+  box-shadow: 0px 0px 40px rgba(0, 0, 0, 0.3);
+  border-radius: 5px;
+  padding: 5px;
+  border: 1px solid rgb(179, 178, 178);
+}
+
+.phone-img{
+  height: 750px;
+  min-width: 95%;
+}
+
+.text-section-phone{
+  font-weight: lighter;
+  color: rgb(59, 59, 59);
+}
+
+.section-img{
+  max-width: 300px;
+  min-width: 100px;
+  margin: 15px;
+} 

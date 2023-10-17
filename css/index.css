@@ -89,8 +89,15 @@ footer{
   color: #767575;
 }
 
+.tittle{
+  font-family: 'Black Han Sans' sans-serif;
+  font-weight: bolder;
+}
+
 .title-footer{
   color: #f0f1ed;
+  font-family: 'Black Han Sans' sans-serif;
+  font-weight: bolder;
 }
 
 
